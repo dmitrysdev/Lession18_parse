@@ -1,4 +1,4 @@
-# Разбор ДЗ к уроку 18 "Object Relational Mapping (ORM), SQLAlchemy"
+18 "Object Relational Mapping (ORM), SQLAlchemy"
 
 Для запуска необходимо установить зависимости:
 ```bash
